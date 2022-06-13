@@ -10,4 +10,4 @@ This file is associated to the FAIR_Bioinfo courses.
 - Julie
 - Sarah
 
--Nathan
+- Nathan
