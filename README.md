@@ -8,3 +8,4 @@ This file is associated to the FAIR_Bioinfo courses.
 - Paulette Lieby
 - Clémence
 - Julie
+- Sarah
